@@ -3,7 +3,8 @@ module.exports = {
 	description: "Tom Roseveare — Portfolio",
 	// skip if localhost
 	// skip if this is a new fork of the speedlify (not Zach’s)
-	skip: !process.env.CONTEXT || process.env.SITE_NAME !== "speedlify",
+	// skip: !process.env.CONTEXT || process.env.SITE_NAME !== "speedlify",
+	skip: false,
 	options: {
 		// runs: 1,
 		frequency: 60 * 23, // 23 hours
