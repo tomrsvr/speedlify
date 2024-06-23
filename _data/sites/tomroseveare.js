@@ -18,8 +18,9 @@ module.exports = {
 	urls: [
 		"https://www.tomroseveare.com/",
 		"https://www.tomroseveare.com/about/",
-		"https://www.tomroseveare.com/work/",
+		"https://www.tomroseveare.com/works/",
 		"https://www.tomroseveare.com/contact/",
+		"https://www.tomroseveare.com/changes/",
 		"https://www.tomroseveare.com/blog/",
 	]
 };
